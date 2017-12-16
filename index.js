@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const param = require('commander')
 const {version} = require('./package.json')
 const {first} = require('lodash/fp')
