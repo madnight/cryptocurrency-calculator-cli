@@ -1,6 +1,6 @@
 {
   "name": "cryptocurrency-calculator-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cryptocurrency Converter Calculator as command line util Edit",
   "author": "Fabian Beuke <mail@beuke.org>",
   "license": "MIT",
