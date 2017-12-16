@@ -34,25 +34,25 @@ cryptocurrency-calculator-cli --help
     -t, --to <string>    specify the coin to convert to e.g. BTC
     -h, --help           output usage information
   ```
-  
-  ## Examples
-  
+
+## Examples
+
 ```
-cryptocurrency-calculator-cli --amount 0.5 --from BTC --to USD                                                             
+cryptocurrency-calculator-cli --amount 0.5 --from BTC --to USD
 9374.63 USD
 
-cryptocurrency-calculator-cli -a 0.5 -f BTC -t USD                                                                         ~
+cryptocurrency-calculator-cli -a 0.5 -f BTC -t USD
 9359.95 USD
 
-cryptocurrency-calculator-cli -f BTC -t USD                                                                               
+cryptocurrency-calculator-cli -f BTC -t USD
 18722.87 USD
 
-cryptocurrency-calculator-cli -f ETH -t USD                                                                               
+cryptocurrency-calculator-cli -f ETH -t USD
 690.21 USD
 
-cryptocurrency-calculator-cli -f ETH -t XRP                                                                              
+cryptocurrency-calculator-cli -f ETH -t XRP
 914.91 XRP
 
-cryptocurrency-calculator-cli -a 0.01 -f BTC -t ADA                                                                         
+cryptocurrency-calculator-cli -a 0.01 -f BTC -t ADA
 567.8592 ADA
   ```
