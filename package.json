@@ -5,6 +5,11 @@
   "author": "Fabian Beuke <mail@beuke.org>",
   "license": "MIT",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint .",
+    "test": "sh test.sh"
+  },
   "bin": {
     "cryptocurrency-calculator-cli": "index.js"
   },
