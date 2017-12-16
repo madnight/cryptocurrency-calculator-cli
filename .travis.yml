@@ -1,0 +1,9 @@
+language: node_js
+
+node_js:
+  - "8.1"
+
+script:
+  - npm start
+  - npm test
+  - npm run lint
