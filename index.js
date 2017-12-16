@@ -13,7 +13,10 @@ param
     .option('-t, --to <string>', 'specify the coin to convert to e.g. BTC')
     .parse(process.argv)
 
-const api = `https://min-api.cryptocompare.com/data/price?fsym=${param.from}&tsyms=${param.to}`
+const from = param.from ? param.from : 'BTC'
+const to = param.to ? param.to : 'USD'
+
+const api = `https://min-api.cryptocompare.com/data/price?fsym=${from}&tsyms=${to}`
 
 const main = async () => {
     const result = (await axios.get(api)).data
