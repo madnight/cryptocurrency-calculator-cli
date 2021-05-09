@@ -14,9 +14,12 @@ Cryptocurrency Converter Calculator as command line util
 
 ## Usage
 
-```
+```bash
 # install
 npm install cryptocurrency-calculator-cli -g
+
+# or run with npx
+npx cryptocurrency-calculator-cli
 
 # run default (shows current btc price)
 cryptocurrency-calculator-cli
@@ -27,7 +30,7 @@ cryptocurrency-calculator-cli --amount 0.5 --from BTC --to USD
 
 ## Options
 
-```
+```bash
 cryptocurrency-calculator-cli --help
 
   Usage: cryptocurrency-calculator-cli [options]
@@ -44,7 +47,7 @@ cryptocurrency-calculator-cli --help
 
 ## Examples
 
-```
+```bash
 cryptocurrency-calculator-cli --amount 0.5 --from BTC --to USD
 9374.63 USD
 
