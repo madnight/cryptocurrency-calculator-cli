@@ -5,7 +5,6 @@
 [![Issue Count](https://codeclimate.com/github/madnight/cryptocurrency-calculator-cli/badges/issue_count.svg?maxAge=2592000)](https://codeclimate.com/github/madnight/cryptocurrency-calculator-cli/issues)
 [![Known Vulnerabilities](https://snyk.io/test/github/madnight/cryptocurrency-calculator-cli/badge.svg)](https://snyk.io/test/github/madnight/cryptocurrency-calculator-cli)
 [![dependencies Status](https://david-dm.org/madnight/cryptocurrency-calculator-cli/status.svg)](https://david-dm.org/madnight/cryptocurrency-calculator-cli)
-[![bitHound Overall Score](https://www.bithound.io/github/madnight/cryptocurrency-calculator-cli/badges/score.svg)](https://www.bithound.io/github/madnight/cryptocurrency-calculator-cli)
 
 Cryptocurrency Converter Calculator as command line util
 
