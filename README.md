@@ -9,7 +9,7 @@
 Cryptocurrency Converter Calculator as command line util
 
 ## Requirements
-* node 8.0 or higher (need fancy syntax features thats why 8+)
+* node 8.0 or higher
 * npm or yarn
 
 ## Usage
