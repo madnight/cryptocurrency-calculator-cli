@@ -6,4 +6,3 @@ node_js:
 script:
   - npm start
   - npm test
-  - npm run lint
