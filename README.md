@@ -2,9 +2,6 @@
 [![npm](https://img.shields.io/npm/v/cryptocurrency-calculator-cli.svg)](https://npmjs.com/package/cryptocurrency-calculator-cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.com/madnight/cryptocurrency-calculator-cli.svg?branch=master)](https://travis-ci.com/madnight/cryptocurrency-calculator-cli)
-[![Issue Count](https://codeclimate.com/github/madnight/cryptocurrency-calculator-cli/badges/issue_count.svg?maxAge=2592000)](https://codeclimate.com/github/madnight/cryptocurrency-calculator-cli/issues)
-[![Known Vulnerabilities](https://snyk.io/test/github/madnight/cryptocurrency-calculator-cli/badge.svg)](https://snyk.io/test/github/madnight/cryptocurrency-calculator-cli)
-[![dependencies Status](https://david-dm.org/madnight/cryptocurrency-calculator-cli/status.svg)](https://david-dm.org/madnight/cryptocurrency-calculator-cli)
 
 Cryptocurrency Converter Calculator as command line util
 
